@@ -1,5 +1,8 @@
 # 🎬 Netflix Dashboard - Power BI  
 
+- ![1152301 (1)](https://github.com/user-attachments/assets/c3dd69e1-779c-4998-bb4e-474ba7110c63)
+
+
 ## 📌 Project Description  
 This **Power BI dashboard** provides an in-depth analysis of Netflix’s content library, helping users explore trends, content distribution, and audience targeting. The dashboard offers **interactive visualizations** to understand the composition of Netflix’s movies and TV shows based on genre, release year, country, and ratings.  
 
