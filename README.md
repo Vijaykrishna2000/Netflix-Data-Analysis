@@ -47,7 +47,10 @@ With the rise of **data-driven decision-making** in the entertainment industry, 
 - **Power Query** - Data transformation and cleaning  
 
 ---
+## 📱 Dashboard
+- https://images.app.goo.gl/isyP2CutzT2foRdy6
 
+---
 ## 🚀 How to Use  
 1. Download the **Netflix Dashboard.pbix** file from this repository.  
 2. Open it in **Power BI Desktop**.  
