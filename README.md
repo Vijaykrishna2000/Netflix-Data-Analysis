@@ -48,7 +48,9 @@ With the rise of **data-driven decision-making** in the entertainment industry, 
 
 ---
 ## 📱 Dashboard
-- <img width="300" alt="Coding" src="https://images.app.goo.gl/isyP2CutzT2foRdy6">
+
+- ![Screenshot 2025-04-02 125544](https://github.com/user-attachments/assets/f7c67933-b5cd-41e1-9b38-4eedb6e7f895)
+
 
 ---
 ## 🚀 How to Use  
